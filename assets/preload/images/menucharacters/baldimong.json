@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "BaldimongMenu",
+	"position": [
+		93,
+		-6
+	],
+	"scale": 0.6,
+	"image": "Menu_Baldimong"
+}

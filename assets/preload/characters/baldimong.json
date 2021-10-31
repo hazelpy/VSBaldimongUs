@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				90
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "BaldimongDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				185
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "BaldimongUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				143
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "BaldimongRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				104
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "BaldimongIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				108
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "BaldimongLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BaldimongUs",
+	"position": [
+		60,
+		380
+	],
+	"healthicon": "baldimong",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

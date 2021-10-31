@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "badoop zee"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol why do you like that ruler so much"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "baldimong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "because i like my ruler"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what if i were to destroy it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "baldimong",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "uh that'd suck stop mentioning my ruler"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "best two out of three, win this battle or it burns ;P"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "baldimong",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "wtf omg"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo pep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "baldimong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bodeep bapoo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "baldimong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I dont wanna rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll destroy your ruler if you don't start spitting >:("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "baldimong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Suddenly I want to rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tiboop dee!"
+		}
+	]
+}

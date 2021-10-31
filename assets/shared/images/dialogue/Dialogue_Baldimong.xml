@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue_Baldimong.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BaldimongTalking 0000" x="0" y="0" width="442" height="522"/>
+	<SubTexture name="BaldimongTalking 0001" x="0" y="0" width="442" height="522"/>
+	<SubTexture name="BaldimongTalking 0002" x="442" y="0" width="442" height="522"/>
+	<SubTexture name="BaldimongTalking 0003" x="442" y="0" width="442" height="522"/>
+	<SubTexture name="BaldimongTalking 0004" x="884" y="0" width="442" height="522"/>
+	<SubTexture name="BaldimongTalking 0005" x="884" y="0" width="442" height="522"/>
+	<SubTexture name="BaldimongTalkIdle 0000" x="884" y="0" width="442" height="522"/>
+	<SubTexture name="BaldimongWorried 0000" x="1326" y="0" width="441" height="521"/>
+	<SubTexture name="BaldimongWorried 0001" x="1326" y="0" width="441" height="521"/>
+	<SubTexture name="BaldimongWorried 0002" x="0" y="522" width="441" height="521"/>
+	<SubTexture name="BaldimongWorried 0003" x="0" y="522" width="441" height="521"/>
+	<SubTexture name="BaldimongWorried 0004" x="441" y="522" width="441" height="521"/>
+	<SubTexture name="BaldimongWorried 0005" x="441" y="522" width="441" height="521"/>
+	<SubTexture name="BaldimongWorryIdle 0000" x="441" y="522" width="441" height="521"/>
+</TextureAtlas>

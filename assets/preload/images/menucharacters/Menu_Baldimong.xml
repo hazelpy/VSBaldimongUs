@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BaldimongMenu.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BaldimongMenu 0000" x="0" y="0" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0001" x="0" y="0" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0002" x="0" y="431" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0003" x="0" y="431" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0004" x="0" y="862" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0005" x="0" y="862" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0006" x="0" y="1293" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0007" x="0" y="1293" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0008" x="442" y="0" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0009" x="442" y="0" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0010" x="442" y="431" width="442" height="431"/>
+	<SubTexture name="BaldimongMenu 0011" x="442" y="431" width="442" height="431"/>
+</TextureAtlas>

@@ -1,0 +1,34 @@
+{
+	"storyName": "Baldi's Basics in Sussy",
+	"hideFreeplay": false,
+	"weekBackground": "basics",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"baldimong",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sussy Basics",
+			"baldimong",
+			[
+				170,
+				255,
+				135
+			]
+		],
+		[
+			"Splintered",
+			"baldimong",
+			[
+				170,
+				255,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Basics"
+}

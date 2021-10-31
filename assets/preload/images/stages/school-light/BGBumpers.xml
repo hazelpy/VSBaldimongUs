@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGBumpers.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LeftBoppers0000" x="0" y="0" width="869" height="710" frameX="0" frameY="-25" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="LeftBoppers0001" x="0" y="0" width="869" height="710" frameX="0" frameY="-25" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="LeftBoppers0002" x="869" y="0" width="861" height="729" frameX="-6" frameY="-6" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="LeftBoppers0003" x="869" y="0" width="861" height="729" frameX="-6" frameY="-6" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="LeftBoppers0004" x="1730" y="0" width="859" height="735" frameX="-7" frameY="0" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="LeftBoppers0005" x="1730" y="0" width="859" height="735" frameX="-7" frameY="0" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="LeftBoppers0006" x="2589" y="0" width="859" height="735" frameX="-7" frameY="0" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="LeftBoppers0007" x="2589" y="0" width="859" height="735" frameX="-7" frameY="0" frameWidth="869" frameHeight="735"/>
+	<SubTexture name="RightBoppers0000" x="3448" y="0" width="619" height="681" frameX="0" frameY="-16" frameWidth="619" frameHeight="697"/>
+	<SubTexture name="RightBoppers0001" x="3448" y="0" width="619" height="681" frameX="0" frameY="-16" frameWidth="619" frameHeight="697"/>
+	<SubTexture name="RightBoppers0002" x="0" y="735" width="615" height="693" frameX="-1" frameY="-4" frameWidth="619" frameHeight="697"/>
+	<SubTexture name="RightBoppers0003" x="0" y="735" width="615" height="693" frameX="-1" frameY="-4" frameWidth="619" frameHeight="697"/>
+	<SubTexture name="RightBoppers0004" x="615" y="735" width="613" height="696" frameX="-2" frameY="-1" frameWidth="619" frameHeight="697"/>
+	<SubTexture name="RightBoppers0005" x="615" y="735" width="613" height="696" frameX="-2" frameY="-1" frameWidth="619" frameHeight="697"/>
+	<SubTexture name="RightBoppers0006" x="1228" y="735" width="613" height="697" frameX="-2" frameY="0" frameWidth="619" frameHeight="697"/>
+	<SubTexture name="RightBoppers0007" x="1228" y="735" width="613" height="697" frameX="-2" frameY="0" frameWidth="619" frameHeight="697"/>
+</TextureAtlas>
